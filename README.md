@@ -23,7 +23,7 @@ Une API RESTful professionnelle construite avec Flask et MongoDB Atlas, avec imp
 ### 1. Cloner le projet
 
 ```bash
-git clone <votre-repo>
+git clone flask_api
 cd flask_api
 ```
 
